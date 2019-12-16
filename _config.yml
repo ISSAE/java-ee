@@ -1,16 +1,16 @@
 remote_theme: ISSAE/architect
 
-name: Paradigme de programmation
+name: Java Web EE / au Cnam Liban
 
 author: Pascal Fares
 
 author_email: pascal.fares@isae.edu.lb
 
-title: Paradigme de programmation 
+title: Java Web EE 
 
 google_analytics: UA-29708002-2
 
-repository: ISSAE/UTC503
+repository: ISSAE/java-ee
 
 plugins:
   - jekyll-sitemap
